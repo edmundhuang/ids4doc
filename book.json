@@ -1,0 +1,37 @@
+{
+    "title": "GitBook 简明教程",
+    "author": "程序员长春 <changchun.huang@gmail.com>",
+    "description": "IdentityServer4 文档",
+    "extension": null,
+    "generator": "site",
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        },
+        "sidebar": {
+            "代码库(Github)": "http://www.github.com/edmundhuang",
+            "程序员长春(简书)": "http://www.jianshu.com/u/15de06e8d059"
+        }
+    },
+    "plugins": ["-lunr", "-search", "search-plus"],
+    "output": null,
+    "pdf": {
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": false,
+        "paperSize": "a4"
+    },
+    "variables": {}
+}
+
